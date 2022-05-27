@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tinderDog/static/css/main.b1d69332.css",
+    "main.js": "/tinderDog/static/js/main.08606a10.js",
+    "static/media/heart.jpg": "/tinderDog/static/media/heart.09461a2bfbc840a82cad.jpg",
+    "index.html": "/tinderDog/index.html",
+    "main.b1d69332.css.map": "/tinderDog/static/css/main.b1d69332.css.map",
+    "main.08606a10.js.map": "/tinderDog/static/js/main.08606a10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d69332.css",
+    "static/js/main.08606a10.js"
+  ]
+}
